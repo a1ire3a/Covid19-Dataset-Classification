@@ -1,4 +1,4 @@
-# Covid19-Datasets-Classification
+# Covid19-Dataset-Classification
 1- download dataset and set path in code
 
 2- run
